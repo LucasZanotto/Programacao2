@@ -1,0 +1,12 @@
+th {
+    background-color: #f2f2f2;
+}
+.sunday {
+    color: red;
+}
+.today {
+    font-weight: bold;
+}
+table {
+    margin-bottom: 20px;
+}
